@@ -19,3 +19,5 @@ BlaBla
 Notice
 
 ### How to contribute
+
+Some tips on contribution
