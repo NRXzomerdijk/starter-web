@@ -13,3 +13,7 @@ BlaBla
 ## Some extra extra text
 
 BlaBla
+
+### Copyrght
+
+Notice
