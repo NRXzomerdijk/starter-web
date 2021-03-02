@@ -17,3 +17,5 @@ BlaBla
 ### Copyrght
 
 Notice
+
+### How to contribute
