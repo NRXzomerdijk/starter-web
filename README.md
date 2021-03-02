@@ -26,3 +26,6 @@ Some tips on contribution
 
 tip 8
 
+### Addition
+
+Some extra shit
